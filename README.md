@@ -1,0 +1,2 @@
+# HASS
+homeassistant configuration files
